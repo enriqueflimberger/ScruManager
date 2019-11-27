@@ -11,7 +11,7 @@
                     <div class="row">
                         <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
                             <ul class="list-unstyled quick-links">
-                                <li><a href="mailto:enrique.limberger@universo.univates.br"><i class="fa fa-angle-double-right"></i>enrique.limberger@universo.univates.br</a></li>
+                                <li><a href="mailto:enriqueflimberger@gmail.com><i class="fa fa-angle-double-right"></i>enriqueflimberger@gmail.com</a></li>
                             </ul>
                             <p>ScruManager: Sistema para gerenciamento de equipes em projetos Scrum, desenvolvido para o curso de Análise e Desenvolvimento de Sistemas.</p><p>Univates, 2018</p>
                             <p class="h6">&copy Direitos Reservados: Enrique Fernando Limberger</p>
